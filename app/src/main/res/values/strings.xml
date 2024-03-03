@@ -1,0 +1,121 @@
+<resources>
+    <string name="app_name">BARCA</string>
+
+    <string name="match1">Match 1</string>
+    <string name="match2">Match 2</string>
+    <string name="match3">Match 3</string>
+    <string name="match4">Match 4</string>
+    <string name="match5">Match 5</string>
+    <string name="match6">Match 6</string>
+    <string name="match7">Match 7</string>
+    <string name="match8">Match 8</string>
+    <string name="match9">Match 9</string>
+    <string name="match10">Match 10</string>
+    <string name="match11">Match 11</string>
+    <string name="match12">Match 12</string>
+    <string name="match13">Match 13</string>
+    <string name="match14">Match 14</string>
+    <string name="match15">Match 15</string>
+    <string name="match16">Match 16</string>
+    <string name="match17">Match 17</string>
+    <string name="match18">Match 18</string>
+    <string name="match19">Match 19</string>
+    <string name="match20">Match 20</string>
+    <string name="match21">Match 21</string>
+    <string name="match22">Match 22</string>
+    <string name="match23">Match 23</string>
+    <string name="match24">Match 24</string>
+    <string name="match25">Match 25</string>
+    <string name="match26">Match 26</string>
+    <string name="match27">Match 27</string>
+    <string name="match28">Match 28</string>
+    <string name="match29">Match 29</string>
+    <string name="match30">Match 30</string>
+
+    <string name="match1activity">Getafe vs Barcelona</string>
+    <string name="match2activity">Barcelona vs Cadiz</string>
+    <string name="match3activity">Villareal vs Barcelona</string>
+    <string name="match4activity">Osasuna vs Cadiz</string>
+    <string name="match5activity">Barcelona vs Real Betis</string>
+    <string name="match6activity">Barcelona vs Antwerp</string>
+    <string name="match7activity">Celta Vigo vs Barcelona</string>
+    <string name="match8activity">Barcelona vs Mallorca</string>
+    <string name="match9activity">Sevilla vs Barcelona</string>
+    <string name="match10activity">Barcelona vs FC Porto</string>
+    <string name="match11activity">Granada vs Barcelona</string>
+    <string name="match12activity">Barcelona vs Athletic Club</string>
+    <string name="match13activity">Shakhtar Donetsk vs Barcelona</string>
+    <string name="match14activity">Real Madrid vs Barcelona</string>
+    <string name="match15activity">Real Sociedad vs Barcelona</string>
+    <string name="match16activity">Shakhtar Donetsk vs Barcelona</string>
+    <string name="match17activity">Alaves vs Barcelona</string>
+    <string name="match18activity">Barcelona vs Rayo Vallecano</string>
+    <string name="match19activity">Barcelona vs Fc Porto</string>
+    <string name="match20activity">Atletico Madrid vs Barcelona</string>
+    <string name="match21activity">Barcelona vs Girona</string>
+    <string name="match22activity">Antwerp vs Barcelona</string>
+    <string name="match23activity">Barcelona vs Valencia</string>
+    <string name="match24activity">Almeria vs Barcelona</string>
+    <string name="match25activity">Barcelona vs Las Palmas</string>
+    <string name="match26activity">Barbastro vs Barcelona</string>
+    <string name="match27activity">Osasuna vs Barcelona</string>
+    <string name="match28activity">Barcelona vs Real Madrid</string>
+    <string name="match29activity">Barcelona vs Unionistas</string>
+    <string name="match30activity">Real Betis vs Barcelona</string>
+
+    <string name="matchdetails1">Disappointment for Culers as Xavis team are unable to start the 2023/24 season with a win.Raphinhas red card in the first half was matched with a dismissal for Getafes Mata in the second half.</string>
+    <string name="matchdetails2">Still not firing on all cylinders but Barça marked their league debut at the Estadi Olímpic with a valuable win against Cádiz thanks to late goals from Pedri and Ferran. </string>
+    <string name="matchdetails3">Breathless encounter in the Estadio de la Cerámica. Two early goals put Barça in control in the first half but Villarreal fought back to level things up at half time.
+In the second half the home side took the lead but a spirited comeback inspired by teenage sensation Lamine Yamal saw goals from Ferran and Lewandowski give the blaugranes an important win.</string>
+    <string name="matchdetails4">Debuts for Iñigo Martínez, João Cancelo and João Félix and a vital three points for the blaugranes thanks to goals from Kounde and Lewandowskis second half penalty. Xavi\s team have taken 10 points from a possible 12 at the start of the season but now the international break is upon us</string>
+    <string name="matchdetails5">Great display from the blaugranes on their return to action after the international break. Goals for João Félix and João Cancelo on their debuts in the starting XI and excellent performances from the team as a whole.
+Four wins in a row now in La Liga for Xavi Hernándezs men and their next challenge is to take that form into the Champions League where they kick off their campaign against Royal Antwerp on Tuesday in the Estadi Olímpic.</string>
+    <string name="matchdetails6">Comfortable win at the Estadi Olímpic for Barça as they take control in Group H of the Champions League thanks to a brace from João Félix, an own goal and strikers from Lewandowski and Gavi.</string>
+    <string name="matchdetails7">Barça looked dead and buried at 2-0 down to Celta with just 10 minutes remaining at the Estadi Olímpic. Xavis team had been second best until João Félixs brilliant pass allowed Lewandowki to pull one back.
+The momentum gathered and another from the Polish striker and an 89th minute winner from Cancelo sealed a memorable comeback win, Barças sixth victory in a row in all competitions this season!</string>
+    <string name="matchdetails8">The run of six wins in a row in all competitions comes to an end in Son Moix. Xavis team came from behind twice to take a point thanks to goals from Raphinha and second half substitute Fermín López.</string>
+    <string name="matchdetails9">An own goal, from all of people Sergio Ramos, was enough to give Barça a deserved win over Sevilla and send them back to the top of the table, momentarily at least. </string>
+    <string name="matchdetails10">Six points from two matches and a perfect start for Xavis team in this seasons Champions League. The blaugranes were not at their best against Porto in the Estádio do Dragão but Ferrans goal in injury time at the end of the first half was enough to collect all three points. </string>
+    <string name="matchdetails11">Xavis team showed great character to come back from 2–0 down and salvage a point. Goals from Lamine and Sergi Roberto helped the blaugranes avoid defeat in the final game before the upcoming international break. </string>
+    <string name="matchdetails12">Barça overcome a tricky test at home with a victory over Athletic that allows them to keep pace with the leaders in La Liga.</string>
+    <string name="matchdetails13">Two wins out of two at home with a third to come this Saturday at the Estadi Olímpic Lluís Companys. The first Clásico of the season in La Liga is upon with Real Madrid the visitors</string>
+    <string name="matchdetails14">Disappointment for Xavi Hernández\s team after their first defeat of the season but they remain just four points behind joint leaders Girona and Real Madrid in the table with just 11 games of the campaign played. </string>
+    <string name="matchdetails15">Barça not at their best but they show character to steal victory in the 93rd minute thanks to Ronald Araujo\s great header from a Gundogan cross. </string>
+    <string name="matchdetails16">Barça miss out on booking a place in the last 16 after a 1–0 defeat in Hamburg against Shakhtar. Thoughts now turn to La Liga where they face Alavés at home in the Estadi Olímpic on Sunday</string>
+    <string name="matchdetails17">That win for Xavi Hernández\s team leaves them in third place in the table, just two points behind Real Madrid and four points behind leaders Girona.</string>
+    <string name="matchdetails18">The blaugranes remain in third place for the moment in the league behind Real Madrid and leaders Girona after Lejeune\s second half own goal cancelled out Unai López\s opener for Rayo.Barça were looking for a win after the international break but there is a still a long way to go in the league with important games against Atlético and Girona coming up.</string>
+    <string name="matchdetails19">A great night for Barça in Europe but now thoughts turn back to domestic matters. On Sunday comes a vital game in la Liga at the Estadi Olímpic Lluís Companys against Atlético Madrid, a team who have also booked their place in the last 16 of the Champions League. </string>
+    <string name="matchdetails20">After the win in the Champions League in midweek, today was another chance to get back on track for the blaugranes. The goal from João Félix and the win will be a great confidence boost ahead of next week\s showdown with surprise package of the season.</string>
+    <string name="matchdetails21" translatable="false">After the disappointment of the defeat against Girona, Xavi\s team turn their attention back to Europe with Wednesdays trip to Royal Antwerp in the Champions League. </string>
+    <string name="matchdetails22">Barça through to the last 16 as group winners despite defeat in Belgium.Later winner from Ilenikhena gives Antwerp victory after the blaugranes had come from behind to equalise twice</string>
+    <string name="matchdetails23">Barça held in Mestalla - João Félix puts them ahead but Gulliamón equalises after a goalless first half
+The blaugranes have chances to win but come up against an inspired Mamardashvili in goal for Valencia</string>
+    <string name="matchdetails24">A topsy turvy game in the Estadi Olímpic ends with an important three points for the blaugranes.A to and fro encounter against Almería is decided by Sergi Roberto\s second goal and late winner to give the blaugranes their first win in four matches.</string>
+    <string name="matchdetails25">Barça start the year with a hard fought win thanks to second half goals from Ferran and Gundogan</string>
+    <string name="matchdetails26">Barça made to work hard by lower league Barbastro to book place in last 16
+A late penalty from substitute Lewandowski turns out to be the winner for the blaugranes</string>
+    <string name="matchdetails27">Second half goals from Lewandowski and Lamine Yamal are enough to see off Osasuna in the Super Cup semi-final
+The victory sets up a final against Real Madrid on Sunday in Saudi Arabia</string>
+    <string name="matchdetails28">Barça suffer a blow with a heavy defeat in the Spanish Super Cup final against Real Madrid but there is no time for regrets as the blaugranes are back in action on Thursday in the Copa del Rey against Unionistas de Salamance away from home.</string>
+    <string name="matchdetails29">Barça fall behind in the first half but goals from Ferran, Kounde and Balde see them into the last eight
+In the second half 16 year old Pau Cubarsí makes his official debut for the blaugranes</string>
+    <string name="matchdetails30">Ferran Torres scores a hat trick to hand Barça a vital win away at Betis
+Betis come back from two down to level things up but João Félix and Ferran seal the victory</string>
+
+
+    <string name="row1matchDate">4 - 03 - 2024</string>
+    <string name="row2matchDate">8 - 03 - 2024</string>
+    <string name="row3matchDate">12 - 03 - 2024</string>
+    <string name="row4matchDate">17 - 03 - 2024</string>
+    <string name="row5matchDate">30 - 03 - 2024</string>
+
+    <string name="time">9:00 pm</string>
+
+    <string name="row1match">Barca vs Athletic Club</string>
+    <string name="row2match">Barca vs Mallorca</string>
+    <string name="row3match">Barca vs Napoli</string>
+    <string name="row4match">Barca vs Atletico Madrid</string>
+    <string name="row5match">Barca vs Las Palmas</string>
+
+
+</resources>
